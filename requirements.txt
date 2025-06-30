@@ -1,5 +1,5 @@
-tensorflow
-streamlit
+streamlit==1.35.0
+tensorflow==2.12.0
 pillow
 numpy
 googletrans==4.0.0-rc1
