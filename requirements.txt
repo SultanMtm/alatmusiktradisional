@@ -1,5 +1,9 @@
 streamlit==1.35.0
+<<<<<<< HEAD
 tensorflow-cpu==2.15.0
+=======
+tensorflow==2.15.0
+>>>>>>> 0d4a20ae5dfc09de1d06770ffa3e32cd43a1542d
 numpy
 pillow
 googletrans==4.0.0-rc1
