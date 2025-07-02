@@ -19,7 +19,7 @@ CLASS_LABELS = [
 # Load model
 @st.cache_resource
 def load_model_cached():
-    return load_model("alatmusiktradnew.h5")
+    return load_model("alatmusiktradnewopfal.h5")
 
 model = load_model_cached()
 
